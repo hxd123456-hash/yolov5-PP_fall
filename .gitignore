@@ -24,7 +24,6 @@
 !cfg/yolov3*.cfg
 
 storage.googleapis.com
-runs/*
 data/*
 data/images/*
 !data/*.yaml
@@ -255,3 +254,4 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+/runs/
